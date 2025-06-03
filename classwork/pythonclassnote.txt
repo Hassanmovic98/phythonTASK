@@ -1,0 +1,25 @@
+import random
+or
+from random import* this means you import everyting everything under random
+
+
+print(random.randint(1,10))
+random number between 0 and 10
+
+print(random.randint())
+
+y= randrange (
+x =random.random()
+
+print(f"{x:2f}")
+
+
+
+
+for loops::::::::::::::::::::::::::::::::::::::::::
+when one iteration is not enough
+
+for i in range (10):
+	for j in range (5)
+		print(pathfinder)
+ 
